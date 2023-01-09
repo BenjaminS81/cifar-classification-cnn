@@ -1,6 +1,6 @@
 ### Deep Learning CNN classification with the CIFAR-10 dataset ###
 
-In this simulation employing a CNN model is build utilizing the the ***CIFAR-10 dataset***, which contains images from 10 different categories. The simulation utilizes advanced data augmentation techniques that helps to improve a model's performance. The simulation requires to be run either on a jupyter lab virtual machine or ideally in Google Colab (see details below).
+In this simulation a CNN model is build utilizing the the ***CIFAR-10 dataset***, which contains images from 10 different categories. The simulation utilizes advanced data augmentation techniques that helps to improve a model's performance. The simulation requires to be run either on a jupyter lab virtual machine or ideally in Google Colab (see details below).
 
 ## 🚨 Open this notebook on Google Colab 🚨
 - ❗️ Login to a Google account to use it!
